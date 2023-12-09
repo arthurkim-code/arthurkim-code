@@ -1,0 +1,859 @@
+PlanTypeFKey,Country,BrandName,TherapyArea,Indication,Criteria,Date,Amount
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202301,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202301,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202301,369728.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202301,2037776.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202301,440166.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202301,1443958.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202301,2381235.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202301,5078182.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202301,24330064.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202301,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202301,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202301,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202301,919650.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202301,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202301,8470180.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202301,3084277.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202301,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202301,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202301,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202301,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202301,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202301,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202301,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202301,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202301,320675.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202301,1768226.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202301,381949.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202301,1252953.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202301,2066252.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202301,1761715.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202301,7512929.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202301,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202301,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202301,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202301,592564.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202301,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202301,3326536.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202301,1439360.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202301,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202301,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202301,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202301,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202301,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202301,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202301,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202301,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202301,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202301,354.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202301,1951.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202301,421.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202301,1383.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202301,2280.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202301,1333.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202301,6387.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202301,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202301,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202301,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202301,241.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202301,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202301,2330.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202301,849.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202302,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202302,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202302,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202302,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202302,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202302,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202302,285129.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202302,1897649.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202302,409901.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202302,1344661.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202302,2217485.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202302,4335988.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202302,21309990.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202302,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202302,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202302,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202302,785228.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202302,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202302,6333096.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202302,2535377.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202302,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202302,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202302,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202302,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202302,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202302,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202302,247407.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202302,1646592.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202302,355681.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202302,1166755.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202302,1924107.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202302,1503968.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202302,6623404.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202302,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202302,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202302,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202302,505870.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202302,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202302,2487226.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202302,1183664.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202302,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202302,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202302,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202302,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202302,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202302,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202302,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202302,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202302,273.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202302,1817.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202302,392.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202302,1287.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202302,2123.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202302,1138.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202302,5595.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202302,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202302,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202302,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202302,206.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202302,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202302,1742.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202302,698.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202303,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202303,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202303,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202303,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202303,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202303,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202303,281996.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202303,1934612.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202303,417894.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202303,1370850.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202303,2260682.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202303,5389992.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202303,26273894.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202303,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202303,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202303,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202303,976120.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202303,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202303,8779365.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202303,3004073.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202303,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202303,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202303,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202303,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202303,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202303,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202303,244272.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202303,1902309.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202303,410899.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202303,1347980.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202303,2222954.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202303,1929914.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202303,8448419.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202303,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202303,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202303,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202303,649139.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202303,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202303,3447062.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202303,1401279.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202303,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202303,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202303,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202303,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202303,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202303,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202303,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202303,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202303,270.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202303,2120.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202303,458.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202303,1503.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202303,2478.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202303,1415.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202303,6898.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202303,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202303,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202303,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202303,256.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202303,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202303,2415.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202303,827.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202304,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202304,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202304,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202304,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202304,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202304,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202304,354106.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202304,2118774.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202304,457674.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202304,1501356.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202304,2475895.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202304,5873133.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202304,28061083.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202304,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202304,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202304,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202304,1063611.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202304,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202304,8409031.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202304,3058195.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202304,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202304,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202304,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202304,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202304,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202304,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202304,308126.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202304,1839432.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202304,397330.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202304,1303409.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202304,2149459.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202304,2036324.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202304,8715507.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202304,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202304,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202304,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202304,684931.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202304,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202304,3302513.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202304,1427183.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202304,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202304,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202304,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202304,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202304,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202304,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202304,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202304,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202304,340.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202304,2030.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202304,438.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202304,1438.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202304,2372.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202304,1542.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202304,7367.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202304,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202304,0.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202304,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202304,279.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202304,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202304,2314.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202304,841.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202305,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202305,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202305,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202305,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202305,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202305,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202305,307239.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202305,1819426.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202305,393007.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202305,1289234.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202305,2126080.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202305,4130376.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202305,19772969.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202305,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202305,751411.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202305,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202305,747998.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202305,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202305,7389760.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202305,2739926.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202305,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202305,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202305,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202305,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202305,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202305,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202305,267472.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202305,1579444.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202305,341165.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202305,1119191.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202305,1845661.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202305,1432810.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202305,6119800.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202305,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202305,183137.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202305,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202305,481936.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202305,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202305,2902209.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202305,1278766.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202305,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202305,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202305,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202305,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202305,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202305,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202305,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202305,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202305,295.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202305,1743.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202305,376.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202305,1235.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202305,2037.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202305,1084.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202305,5191.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202305,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202305,197.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202305,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202305,196.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202305,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202305,2033.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202305,754.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202306,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202306,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202306,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202306,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202306,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202306,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202306,354106.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202306,2208892.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202306,477133.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202306,1565209.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202306,2581190.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202306,6062977.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202306,31187811.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202306,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202306,941890.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202306,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202306,1097982.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202306,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202306,8908493.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202306,3085753.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202306,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202306,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202306,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202306,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202306,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202306,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202306,300905.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202306,1872402.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202306,404455.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202306,1326767.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202306,2187981.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202306,2081636.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202306,10206322.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202306,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202306,210018.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202306,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202306,700173.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202306,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202306,3498504.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202306,2010753.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202306,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202306,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202306,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202306,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202306,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202306,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202306,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202306,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202306,340.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202306,2116.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202306,457.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202306,1499.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202306,2473.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202306,1592.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202306,8188.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202306,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202306,247.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202306,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202306,288.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202306,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202306,2451.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202306,849.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202307,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202307,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202307,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202307,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202307,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202307,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202307,290505.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202307,1879377.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202307,410705.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202307,1202225.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202307,2209046.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202307,4640438.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202307,24337328.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202307,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202307,1019313.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202307,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202307,846276.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202307,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202307,8909299.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202307,3438262.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202307,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202307,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202307,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202307,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202307,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202307,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202307,251955.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202307,1630736.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202307,356369.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202307,1043170.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202307,1916789.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202307,1748145.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202307,7397334.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202307,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202307,211352.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202307,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202307,533154.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202307,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202307,3499573.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202307,1609170.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202307,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202307,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202307,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202307,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202307,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202307,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202307,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202307,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202307,279.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202307,1800.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202307,393.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202307,1152.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202307,2116.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202307,1218.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202307,6389.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202307,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202307,268.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202307,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202307,222.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202307,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202307,2451.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202307,946.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202308,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202308,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202308,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202308,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202308,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202308,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202308,296171.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202308,1901428.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202308,418521.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202308,1225217.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202308,2242807.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202308,4705081.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202308,24787879.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202308,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202308,1335834.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202308,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202308,864449.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202308,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202308,9215916.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202308,3637689.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202308,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202308,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202308,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202308,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202308,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202308,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202308,256869.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202308,1649869.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202308,363151.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202308,1063121.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202308,1946084.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202308,1772497.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202308,7529551.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202308,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202308,285532.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202308,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202308,544603.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202308,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202308,3620012.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202308,1702506.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202308,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202308,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202308,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202308,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202308,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202308,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202308,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202308,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202308,284.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202308,1821.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202308,401.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202308,1174.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202308,2148.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202308,1235.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202308,6508.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202308,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202308,351.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202308,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202308,227.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202308,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202308,2536.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202308,1001.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202309,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202309,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202309,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202309,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202309,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202309,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202309,378838.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202309,2415550.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202309,534352.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202309,1565332.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202309,2856824.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202309,5990770.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202309,32764227.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202309,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202309,1817895.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202309,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202309,1105603.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202309,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202309,11904658.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202309,4806460.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202309,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202309,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202309,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202309,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202309,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202309,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202309,328566.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202309,2095972.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202309,463657.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202309,1358239.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202309,2478866.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202309,2256842.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202309,10027230.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202309,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202309,398591.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202309,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202309,696530.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202309,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202309,4676150.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202309,2249514.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202309,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202309,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202309,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202309,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202309,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202309,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202309,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202309,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202309,364.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202309,2314.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202309,512.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202309,1499.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202309,2737.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202309,1573.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202309,8602.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202309,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202309,477.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202309,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202309,290.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202309,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202309,3275.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202309,1322.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202310,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202310,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202310,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202310,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202310,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202310,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202310,308693.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202310,1945880.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202310,434164.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202310,1271276.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202310,2310717.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202310,4844720.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202310,26000429.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202310,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202310,1662605.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202310,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202310,898985.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202310,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202310,9836839.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202310,4030643.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202310,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202310,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202310,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202310,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202310,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202310,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202310,267729.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202310,1688440.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202310,376724.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202310,1103086.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202310,2005009.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202310,1835978.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202310,7929838.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202310,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202310,378307.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202310,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202310,566360.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202310,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202310,3863910.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202310,1886416.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202310,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202310,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202310,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202310,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202310,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202310,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202310,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202310,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202310,296.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202310,1864.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202310,416.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202310,1218.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202310,2214.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202310,1272.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202310,6826.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202310,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202310,436.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202310,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202310,236.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202310,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202310,2706.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202310,1109.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202311,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202311,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202311,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202311,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202311,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202311,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202311,315684.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202311,1970134.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202311,443731.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202311,1295054.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202311,2347793.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202311,4923890.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202311,26387281.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202311,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202311,1729062.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202311,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202311,916221.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202311,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202311,10081508.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202311,4167688.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202311,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202311,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202311,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202311,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202311,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202311,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202311,273793.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202311,1709486.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202311,385025.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202311,1123718.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202311,2037180.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202311,1865981.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202311,8051800.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202311,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202311,399243.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202311,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202311,577220.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202311,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202311,3960016.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202311,1950555.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202311,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202311,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202311,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202311,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202311,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202311,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202311,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202311,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202311,303.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202311,1887.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202311,425.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202311,1241.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202311,2249.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202311,1293.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202311,6927.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202311,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202311,454.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202311,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202311,241.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202311,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202311,2774.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202311,1147.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,GTS,202312,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,GTS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202312,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,GTS,202312,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,GTS,202312,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,GTS,202312,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,GTS,202312,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,GTS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202312,404621.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,GTS,202312,2505703.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,GTS,202312,569265.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,GTS,202312,1654605.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,GTS,202312,2994635.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,GTS,202312,6282384.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,GTS,202312,34122041.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,GTS,202312,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,GTS,202312,2254512.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,GTS,202312,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,GTS,202312,1170795.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,GTS,202312,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,GTS,202312,12870948.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,GTS,202312,5368767.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,NTS,202312,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,NTS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202312,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,NTS,202312,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,NTS,202312,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,NTS,202312,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,NTS,202312,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,NTS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202312,350928.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,NTS,202312,2174198.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,NTS,202312,493951.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,NTS,202312,1435701.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,NTS,202312,2598445.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,NTS,202312,2380802.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,NTS,202312,10435187.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,NTS,202312,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,NTS,202312,524640.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,NTS,202312,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,NTS,202312,737601.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,NTS,202312,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,NTS,202312,5055708.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,NTS,202312,2512685.0
+NU23,AU,Remicade,Dermatology,Chronic Plaque Psoriasis,UNITS,202312,
+NU23,AU,Remicade,Gastroenterology,Crohns Disease,UNITS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202312,
+NU23,AU,Remicade,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202312,
+NU23,AU,Remicade,Rheumatology,Ankylosing Spondylitis,UNITS,202312,
+NU23,AU,Remicade,Rheumatology,Psoriatic Arthritis,UNITS,202312,
+NU23,AU,Remicade,Rheumatology,Rheumatoid Arthritis,UNITS,202312,
+NU23,AU,Simponi,Dermatology,Chronic Plaque Psoriasis,UNITS,202312,
+NU23,AU,Simponi,Gastroenterology,Crohns Disease,UNITS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202312,
+NU23,AU,Simponi,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202312,389.0
+NU23,AU,Simponi,Rheumatology,Ankylosing Spondylitis,UNITS,202312,2400.0
+NU23,AU,Simponi,Rheumatology,NR Axial SpA,UNITS,202312,545.0
+NU23,AU,Simponi,Rheumatology,Psoriatic Arthritis,UNITS,202312,1585.0
+NU23,AU,Simponi,Rheumatology,Rheumatoid Arthritis,UNITS,202312,2869.0
+NU23,AU,Stelara,Dermatology,Chronic Plaque Psoriasis,UNITS,202312,1649.0
+NU23,AU,Stelara,Gastroenterology,Crohns Disease,UNITS,202312,8958.0
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Acute Severe,UNITS,202312,
+NU23,AU,Stelara,Gastroenterology,Ulcerative Colitis Moderate Severe,UNITS,202312,592.0
+NU23,AU,Stelara,Rheumatology,Ankylosing Spondylitis,UNITS,202312,
+NU23,AU,Stelara,Rheumatology,Psoriatic Arthritis,UNITS,202312,307.0
+NU23,AU,Stelara,Rheumatology,Rheumatoid Arthritis,UNITS,202312,
+NU23,AU,Tremfya,Dermatology,Chronic Plaque Psoriasis,UNITS,202312,3541.0
+NU23,AU,Tremfya,Rheumatology,Psoriatic Arthritis,UNITS,202312,1477.0
