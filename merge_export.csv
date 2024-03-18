@@ -1,0 +1,15 @@
+hcp,jims_hco,ic_hco,compare_result
+test1,a,a,True
+test2,b,x1,False
+test3,c,c,True
+test4,d,x2,False
+test5,e,e,True
+test6,f,x3,False
+test7,g,g,True
+test8,h,x4,False
+test9,i,i,True
+test10,j,x5,False
+test11,k,k,True
+test12,m,x6,False
+test13,n,n,True
+test14,,z,False
